@@ -1,7 +1,6 @@
 ### Hi there, I'm Chris 👋
 
 - 🔭 I am currently very active on Leetcode.
-- 🤔 I am currently working on a top-secret project
 
 - 💬 Ask me about Python or web development.
 
