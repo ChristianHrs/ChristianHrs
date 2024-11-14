@@ -1,11 +1,12 @@
-### Hi there, I'm Chris 👋
+### Hi there, I'm Christian 👋
 
-- 🔭 I am currently very active on Leetcode.
+- 🔭 I am building a video game in JavaScript and working on building my own Operating System. 
 
-- 💬 Ask me about Python or web development.
-
-- 🏀 I am passionate about basketball, football and team sports in general.
+- 🏀 I am passionate about basketball, football, team sports, and most importantly 🥁 programming!.
 
 - 📫 How to reach me: christian.harries12@gmail.com
 
-- Portfolio Website: https://master.d1te8yffgnqaw4.amplifyapp.com/
+- Portfolio Website: https://master.d1te8yffgnqaw4.amplifyapp.com/ (It's old)
+
+- Languages: Python, C++, JavaScript
+- Cloud Services: AWS, Azure
