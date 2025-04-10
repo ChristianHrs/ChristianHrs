@@ -6,5 +6,5 @@
 
 - Portfolio Website: https://master.d1te8yffgnqaw4.amplifyapp.com/ (It's old)
 
-- Languages: Python, C++, JavaScript
+- Languages: Python, C++, C, JavaScript
 - Cloud Services: AWS, Azure
