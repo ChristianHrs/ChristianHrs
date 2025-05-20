@@ -1,4 +1,4 @@
-### Hi there, I'm Christian 👋
+### Hi, I'm Christian 👋
 
 - Languages: Python, C++, C, JavaScript
 - Working on CPython
