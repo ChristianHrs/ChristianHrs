@@ -1,5 +1,6 @@
 ### Hi, I'm Christian 👋
 
+- Associate Director Software Engineer at HowdenRe
 - Languages: Python, C++, C, JavaScript
 - Slowly contributing to CPython
 - Building a self hosted messaging system in C
